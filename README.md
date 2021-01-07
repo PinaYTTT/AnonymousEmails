@@ -4,7 +4,7 @@
 
 # El correo electronico pondra los correos en la seccion de spam por el sistema de correos electronicos
 
-##Requirimientos
+## Requirimientos
 Descargar [Python 3.9](https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe)
 
 ## Creado por [PinaYT](https://github.com/PinaYTTT/)
